@@ -2,5 +2,5 @@ function searchChange(event) {
   event.preventDefault();
   alert("searching");
 }
-let searchForm = document.querySelector("#search-form");
-searchForm.addEventListener("submit", searchChange);
+let inputForm = document.querySelector("#search-form");
+inputForm.addEventListener("submit", searchChange);
