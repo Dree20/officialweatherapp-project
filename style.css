@@ -52,8 +52,9 @@ main {
 }
 .current-weather-icon {
   position: relative;
-  top: -10px;
+  top: -8px;
   font-size: 40px;
+  margin-right: 5px;
 }
 .current-temperature-value {
   font-size: 80px;
