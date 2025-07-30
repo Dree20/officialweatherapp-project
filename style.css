@@ -54,7 +54,7 @@ main {
   position: relative;
   top: -8px;
   font-size: 40px;
-  margin-right: 10px;
+  margin-right: 5px;
 }
 .current-temperature-value {
   font-size: 80px;
