@@ -60,7 +60,8 @@ footer {
   margin: 0;
 }
 .sunny {
-  font-size: 48px;
+  display: flex;
+  justify-content: space-between;
 }
 
 .current-weather-1 {
