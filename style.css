@@ -41,9 +41,15 @@ header {
 main {
   padding: 30px 0;
 }
+.current-temperature {
+  font-size: 48px;
+}
 
 .current-weather {
   display: flex;
   justify-content: space-between;
   margin: 0;
+}
+.current-temperature-value {
+  font-size: 80px;
 }
