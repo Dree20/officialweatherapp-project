@@ -45,4 +45,5 @@ main {
 .current-weather {
   display: flex;
   justify-content: space-between;
+  margin: 0;
 }
