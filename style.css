@@ -73,17 +73,16 @@ footer {
 .sunny-icon {
   font-size: 40px;
   position: relative;
-  top: -32px;
+  top: -8px;
   margin-right: 10px;
 }
 
 .sunny-temp {
   font-size: 80px;
   font-weight: bold;
-  display: flex;
-  justify-content: end;
-  position: relative;
 }
 .current-temperature-unit {
   font-size: 28px;
+  position: relative;
+  top: -38px;
 }
