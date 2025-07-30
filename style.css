@@ -1,0 +1,70 @@
+body {
+  background: #f7f4fc;
+  font-family: "Open Sans", sans-serif;
+}
+
+.package {
+  background: white;
+  border-radius: 10px;
+  margin: 60px auto;
+  max-width: 600px;
+  display: block;
+  justify-content: center;
+  padding: 30px;
+  box-shadow: 0 30px 50px rgba (65, 50, 100, 0.08);
+}
+
+header {
+  border-bottom: 1px solid #f9f7fe;
+  padding-bottom: 30px;
+}
+.search-info {
+  background-color: #f7f4fc;
+  border-radius: 6px;
+  color: rgba (39, 33, 66, 0.4);
+  font-size: 16px;
+  border: none;
+  padding: 20px;
+  width: 75%;
+}
+.search-button {
+  padding: 20px;
+  margin-left: 5px;
+  font-size: 16px;
+  line-height: 1;
+  background-color: #885df1;
+  color: white;
+  border-radius: 5px;
+  border: none;
+}
+.main {
+  padding: 30px 0;
+}
+.current-weather {
+  display: flex;
+  justify-content: space-between;
+}
+.city {
+  font-size: 38px;
+  font-weight: 900;
+  margin: 0;
+}
+.current-weather-1 {
+  font-size: 16px;
+  color: rgba(39, 33, 66, 0.4);
+}
+.current-weather-2 {
+  color: #f65282;
+}
+
+.sunny-icon {
+  font-size: 40px;
+  position: relative;
+  bottom: -32px;
+  margin-right: 10px;
+}
+
+.sunny-temp {
+  font-size: 80px;
+  font-weight: bold;
+}
