@@ -1,6 +1,6 @@
-function changeSubmit(event) {
+function searchChange(event) {
   event.preventDefault();
   alert("searching");
 }
 let searchForm = document.querySelector("#search-form");
-searchForm.addEventListener("submit", changeSubmit);
+searchForm.addEventListener("submit", seachChange);
